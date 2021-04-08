@@ -11,7 +11,7 @@ import (
 
 func TestSoma(t *testing.T) {
 	assert := assert.New(t)
-	assert.Equal(3., soma(1, 2))
+	assert.Equal(1., sub(2, 1))
 }
 
 func TestSomaHandler_Ok(t *testing.T) {
