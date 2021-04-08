@@ -1,0 +1,7 @@
+tasks:
+  - init: ''
+    command: ''
+
+vscode:
+  extensions:
+    - golang.go@0.21.0
