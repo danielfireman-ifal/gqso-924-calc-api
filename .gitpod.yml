@@ -4,7 +4,3 @@ image:
 ports:
   - port: 8080
     onOpen: open-preview
-
-vscode:
-  extensions:
-    - golang.go@0.21.0
